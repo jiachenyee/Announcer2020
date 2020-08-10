@@ -10,7 +10,7 @@ assignees: jiachenyee
 
 **Description**
 A clear and concise description of what the bug is.
-`E.g. App crashes when launched from widget`
+`[e.g. App crashes when launched from widget]`
 
 **How to Reproduce**
 Steps to reproduce the behaviour:
@@ -21,7 +21,7 @@ Steps to reproduce the behaviour:
 
 **Expected behaviour**
 A clear and concise description of what you expected to happen.
-`E.g. The app should open up the corresponding post when opening from widget`
+`[e.g. The app should open up the corresponding post when opening from widget]`
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
