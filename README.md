@@ -12,6 +12,8 @@
 
 [![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat)](https://gitmoji.carloscuesta.me/)
 
+[![License](https://img.shields.io/badge/license-Apache%202-blue.svg?style=flat)](https://github.com/sst-inc/SST-Announcer-iOS/blob/master/LICENSE)
+
 SST Announcer was built to help SST Students stay up to date with the school’s announcements with ease and convenience on their devices. The app allows users to browse, pin and share important announcements made by the school. The app also sends notifications to students whenever a new announcement is posted. This helped to ensure that students are kept updated with the latest information from the school. 
 
 > Original design by *FourierIndustries (formerly StatiX Industries)*
